@@ -1,0 +1,15 @@
+E:\Homework0704\Bailamthem1\bin\Debug\net9.0\Bailamthem1.exe
+E:\Homework0704\Bailamthem1\bin\Debug\net9.0\Bailamthem1.deps.json
+E:\Homework0704\Bailamthem1\bin\Debug\net9.0\Bailamthem1.runtimeconfig.json
+E:\Homework0704\Bailamthem1\bin\Debug\net9.0\Bailamthem1.dll
+E:\Homework0704\Bailamthem1\bin\Debug\net9.0\Bailamthem1.pdb
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\Bailamthem1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\Bailamthem1.AssemblyInfoInputs.cache
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\Bailamthem1.AssemblyInfo.cs
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\Bailamthem1.csproj.CoreCompileInputs.cache
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\Bailamthem1.sourcelink.json
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\Bailamthem1.dll
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\refint\Bailamthem1.dll
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\Bailamthem1.pdb
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\Bailamthem1.genruntimeconfig.cache
+E:\Homework0704\Bailamthem1\obj\Debug\net9.0\ref\Bailamthem1.dll
