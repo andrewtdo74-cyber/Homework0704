@@ -1,0 +1,14 @@
+E:\Homework0704\Baitap2\obj\Debug\net9.0\Baitap2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Homework0704\Baitap2\obj\Debug\net9.0\Baitap2.AssemblyInfoInputs.cache
+E:\Homework0704\Baitap2\obj\Debug\net9.0\Baitap2.AssemblyInfo.cs
+E:\Homework0704\Baitap2\obj\Debug\net9.0\Baitap2.csproj.CoreCompileInputs.cache
+E:\Homework0704\Baitap2\bin\Debug\net9.0\Baitap2.exe
+E:\Homework0704\Baitap2\bin\Debug\net9.0\Baitap2.deps.json
+E:\Homework0704\Baitap2\bin\Debug\net9.0\Baitap2.runtimeconfig.json
+E:\Homework0704\Baitap2\bin\Debug\net9.0\Baitap2.dll
+E:\Homework0704\Baitap2\bin\Debug\net9.0\Baitap2.pdb
+E:\Homework0704\Baitap2\obj\Debug\net9.0\Baitap2.dll
+E:\Homework0704\Baitap2\obj\Debug\net9.0\refint\Baitap2.dll
+E:\Homework0704\Baitap2\obj\Debug\net9.0\Baitap2.pdb
+E:\Homework0704\Baitap2\obj\Debug\net9.0\Baitap2.genruntimeconfig.cache
+E:\Homework0704\Baitap2\obj\Debug\net9.0\ref\Baitap2.dll
